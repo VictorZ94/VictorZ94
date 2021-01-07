@@ -20,7 +20,6 @@
 [<img align="left" alt="Python" width="26px" src="https://i.imgur.com/WyTZyyA.png"/>][python]
 [<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][C]
 [<img align="left" alt="Bash" width="26px" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png"/>][Bash]
-
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZ94&layout=compact&theme=vue&langs_count=10")
