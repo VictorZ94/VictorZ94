@@ -9,16 +9,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VictorZulRam94 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="victorzuluagara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="1484 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="VictorZulRam94 | Twitter" width="22px" src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-del-icono-de-twitter-by-vexels.png" />][twitter]
+[<img align="left" alt="victorzuluagara | LinkedIn" width="22px" src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="1484 | LinkedIn" width="22px" src="https://iconape.com/wp-content/files/kv/80919/png/medium-m.png" />][medium]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://i.imgur.com/WyTZyyA.png"/>][python]
 [<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][C]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"/>][python]
 [<img align="left" alt="Bash" width="26px" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png"/>][Bash]
 <br />
 
