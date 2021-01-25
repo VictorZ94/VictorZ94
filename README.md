@@ -1,12 +1,16 @@
 ### Hi there 👋 I'm Victor Zuluaga
 
-- 🔭 I’m currently studying at Holberton School ...
-- 🌱 I’m currently learning Devops/Full stack
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about C programming language and Data Structure.
-- 📫 How to reach me: zrvictor@outlook.com
+#### I'm a Full Stack developer
+![I'm a Full Stack developer](https://pbs.twimg.com/profile_banners/4905852267/1611614405/600x200)
 
+I'm passionate about software development, willing to face new challenges. my goal is to develop my knowledge and grow both personally and professionally.
+
+Skills: JS / HTML / CSS / C / Data Structure
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VictorZ94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/VictorZuluaga/)  
 ### Connect with me:
 
 [<img align="left" alt="VictorZulRam94 | Twitter" width="22px" src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-del-icono-de-twitter-by-vexels.png" />][twitter]
