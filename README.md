@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Victor Zuluaga
+### Hi there 👋
 
 #### I'm a Full Stack developer
 ![I'm a Full Stack developer](https://pbs.twimg.com/profile_banners/4905852267/1611614405/600x200)
@@ -8,8 +8,6 @@ I'm passionate about software development, willing to face new challenges. my go
 Skills: JS / HTML / CSS / C / Data Structure
 
 - 🔭 I’m currently working on this page. 
-
-
 
 ### Connect with me:
 
