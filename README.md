@@ -27,7 +27,7 @@ Skills: JS / HTML / CSS / C / Data Structure / PYTHON
 <br />
 
 ---
-![github stats](https://github-readme-stats.vercel.app/api?username=VictorZ94&count_private=true&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=VictorZ94&count_private=true&show_icons=true&theme=highcontrast)
 
 [twitter]: https://twitter.com/VictorZulRam94
 [linkedin]: https://linkedin.com/in/victorzuluagara
