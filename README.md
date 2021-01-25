@@ -5,7 +5,7 @@
 
 I'm passionate about software development, willing to face new challenges. my goal is to develop my knowledge and grow both personally and professionally.
 
-Skills: JS / HTML / CSS / C / Data Structure
+Skills: JS / HTML / CSS / C / Data Structure / PYTHON
 
 - 🔭 I’m currently working on this page. 
 
