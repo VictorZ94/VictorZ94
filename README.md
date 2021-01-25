@@ -35,3 +35,7 @@ Skills: JS / HTML / CSS / C / Data Structure / PYTHON
 [python]: https://www.python.org
 [C]: https://en.cppreference.com/w/c
 [Bash]: https://www.gnu.org/software/bash/
+
+<br />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VictorZ94)  
