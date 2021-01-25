@@ -22,7 +22,7 @@ Skills: JS / HTML / CSS / C / Data Structure / PYTHON
 [<img align="left" alt="Bash" width="26px" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png"/>][Bash]
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZ94&layout=compact&theme=highcontrast")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZ94&layout=compact&theme=highcontrast&lang_count=10")
 
 <br />
 
