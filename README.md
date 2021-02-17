@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full Stack developer
-![I'm a Full Stack developer](https://pbs.twimg.com/profile_banners/4905852267/1611614405/600x200)
+#### Full Stack developer
 
 I'm passionate about software development, willing to face new challenges. my goal is to develop my knowledge and grow both personally and professionally.
 
@@ -36,6 +35,3 @@ Skills: JS / HTML / CSS / C / Data Structure / PYTHON
 [C]: https://en.cppreference.com/w/c
 [Bash]: https://www.gnu.org/software/bash/
 
-<br />
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VictorZ94)  
