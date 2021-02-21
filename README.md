@@ -23,7 +23,7 @@ I'm passionate about software development, willing to face new challenges. my go
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZ94&layout=compact&theme=highcontrast&langs_count=10")
-![github stats](https://github-readme-stats.vercel.app/api?username=VictorZ94&count_private=true&show_icons=true&theme=highcontrast)
+![github stats](https://github-readme-stats.vercel.app/api?username=VictorZ94&count_private=true&show_icons=true&theme=highcontrast, height="70px")
 
 [twitter]: https://twitter.com/VictorZulRam94
 [linkedin]: https://linkedin.com/in/victorzuluagara
