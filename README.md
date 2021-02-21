@@ -2,6 +2,9 @@
 
 #### Full Stack developer
 
+
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 I'm passionate about software development, willing to face new challenges. my goal is to develop my knowledge and grow both personally and professionally.
 
 Skills: JS / HTML / CSS / C / Data Structure / PYTHON
