@@ -30,11 +30,3 @@ I'm passionate about software development, willing to face new challenges. my go
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZ94&layout=compact&theme=highcontrast&langs_count=10")
 ![github stats](https://github-readme-stats.vercel.app/api?username=VictorZ94&count_private=true&show_icons=true&theme=highcontrast)
-
-![twitter]: https://twitter.com/VictorZulRam94
-![linkedin]: https://linkedin.com/in/victorzuluagara
-[medium]: https://medium.com/@1484
-[python]: https://www.python.org
-[C]: https://en.cppreference.com/w/c
-[Bash]: https://www.gnu.org/software/bash/
-
