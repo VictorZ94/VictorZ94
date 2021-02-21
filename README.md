@@ -25,10 +25,6 @@ Skills: JS / HTML / CSS / C / Data Structure / PYTHON
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZ94&layout=compact&theme=highcontrast&langs_count=10")
-
-<br />
-
----
 ![github stats](https://github-readme-stats.vercel.app/api?username=VictorZ94&count_private=true&show_icons=true&theme=highcontrast)
 
 [twitter]: https://twitter.com/VictorZulRam94
