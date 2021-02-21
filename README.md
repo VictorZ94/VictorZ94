@@ -15,7 +15,7 @@ I'm passionate about software development, willing to face new challenges. my go
 ### Languages & Tools:
 
 ![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=vscide&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 [<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][C]
