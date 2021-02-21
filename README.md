@@ -3,9 +3,9 @@
 [![Header](https://i.imgur.com/zlF35qj.gif "Header")](https://i.imgur.com/zlF35qj.gif)
 
 <p align="center">
-<a href="https://facebook.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/viictorr.zuuluuaagaa/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/VictorZulRam94"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/VictorZuluaga/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://github.com/VictorZ94"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://1484.medium.com/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg"></a>&nbsp;&nbsp;
