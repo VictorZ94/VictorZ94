@@ -3,7 +3,7 @@
 #### Full Stack developer
 
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://imgur.com/zlF35qj)
 
 I'm passionate about software development, willing to face new challenges. my goal is to develop my knowledge and grow both personally and professionally.
 
