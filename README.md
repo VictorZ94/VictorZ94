@@ -12,9 +12,6 @@
 </p>
 
 ## Languages & Tools
-<p align="center">
-  <img width="20%" alt="OS" src="https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
-  <img width="20%" alt="Framework" src="https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a"/>
  
 ![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
@@ -29,7 +26,6 @@
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Arch_Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=2bbc8a)
-<p>
 
 ## Github Stats
 <p align="center">
