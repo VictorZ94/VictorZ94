@@ -28,6 +28,13 @@
 ![](https://img.shields.io/badge/Tools-Arch_Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=2bbc8a)
 
 ## Github Stats
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorZ94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorZ94&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZ94&layout=compact&theme=highcontrast&langs_count=10")
 ![github stats](https://github-readme-stats.vercel.app/api?username=VictorZ94&count_private=true&show_icons=true&theme=highcontrast)
