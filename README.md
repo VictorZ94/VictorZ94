@@ -13,7 +13,7 @@
 
 ## Languages & Tools
 <p align="center">
-  <img width="50em" height="50em" alt="OS" src="https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
+  <img width="20%" height="30em" alt="OS" src="https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
   <img width="20%" alt="Framework" src="https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a"/>
  
 ![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
