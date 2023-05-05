@@ -69,18 +69,16 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VictorZ94&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
+<div align="center">
+  <a href="https://github.com/VictorZ94">
+    <img
+         height="180em"
+         src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorZ94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    />
+    <img
+         height="180em"
+         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorZ94&layout=compact&langs_count=8&theme=algolia"
+    />
+  </a>
+</div>
 ###
-
-## Github Stats
-<p align="center">
-<a href="https://github.com/VictorZ94">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorZ94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VictorZ94&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-<a><h2>Trophies</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=VictorZ94&row=4&theme=algolia&no-frame=true"/>
-</a>    
-</a>
-</p>
